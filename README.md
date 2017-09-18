@@ -1,6 +1,10 @@
 # DropletAnalyzer
 Quantify fluorescence in droplet microfluidics experiments using machine vision (OpenCV 3)
 
+[screenshot]: https://github.com/ryanusahk/DropletAnalyzer/blob/master/screenshot.png
+
+![logo]
+
 ## Dependencies
 - Python 2.7
 - Numpy
