@@ -3,7 +3,7 @@ Quantify fluorescence in droplet microfluidics experiments using machine vision 
 
 [screenshot]: https://github.com/ryanusahk/DropletAnalyzer/blob/master/screenshot.png
 
-![logo]
+![screenshot]
 
 ## Dependencies
 - Python 2.7
